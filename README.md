@@ -23,10 +23,30 @@ Mindshare is a social networking platform that aims to redefine the way people c
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/mindshare.git`
-2. Navigate to the project directory: `cd mindshare`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
+1. **Clone the repository:** 
+   ```bash
+   git clone https://github.com/santhoshagain/mindshare.git
+   ```
+
+2. **Navigate to the project directory:** 
+   ```bash
+   cd mindshare
+   ```
+
+3. **Install dependencies:** 
+   ```bash
+   npm install
+   ```
+   Note: Make sure to run `npm install` in both the client and server directories.
+
+4. **Fill in the values in .env file before running.**
+
+5. **Start the development server:** 
+   ```bash
+   npm start
+   ```
+   Note: Run `npm start` in both the client and server directories.
+
 
 ## Contributing
 
